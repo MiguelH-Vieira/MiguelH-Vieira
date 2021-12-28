@@ -1,0 +1,3 @@
+-Hi, I’m @MiguelH-Vieira
+-I’m interested in Machine Vision, AI, neural networks
+-I’m currently learning Python
